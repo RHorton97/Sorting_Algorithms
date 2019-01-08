@@ -2,7 +2,7 @@
 
 def selectionSort(unsorted):
     '''Selection sort
-       Takes an list of comparable values andsorts them using
+       Takes an list of comparable values and sorts them using
        selction sort before returning them in a list'''
     
     sortedList = list()
