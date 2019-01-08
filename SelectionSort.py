@@ -2,8 +2,8 @@
 
 def selectionSort(unsorted):
     '''Selection sort
-       Takes an list of comparable values and returns them in
-       in a sorted list'''
+       Takes an list of comparable values andsorts them using
+       selction sort before returning them in a list'''
     
     sortedList = list()
     while unsorted != []: #Cycles through the unsorted list
