@@ -1,4 +1,7 @@
 #Selection Sort
+#Best Case: O(n^2)
+#Average Case: O(n^2)
+#Worst Case: O(n^2)
 
 def selectionSort(unsorted):
     '''Selection sort
